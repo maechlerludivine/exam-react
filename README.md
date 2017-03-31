@@ -1,5 +1,5 @@
 
-Ce projet React implémente une todolist. J'ai ajouté a celle-ci la possibilité de déplacer les éléments de la liste avec le sytème de "Drag n Drop".
+Ce projet React implémente une todolist. J'ai ajouté à celle-ci la possibilité de déplacer les éléments de la liste avec le système de "Drag n Drop".
 Pour ce faire, j'ai simplement utilisé des props ainsi que des states.
 _______________________________________________________________________________
 

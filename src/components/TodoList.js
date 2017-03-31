@@ -15,8 +15,8 @@ const TodoList = (props) => {
                        complete={item.complete}
                        onClick={props.selectItem.bind(this,index)}
                        draggable="true"
-                       onDragEnd={item.dragEnd}
-                       onDragStart={item.dragStart}
+                       onDragEnd={item.DragEndHandler}
+                       onDragStart={item.DragStartHandler}
             />
     })
   }</ul>;

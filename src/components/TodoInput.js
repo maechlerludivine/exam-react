@@ -27,6 +27,14 @@ class TodoInput extends Component {
     this.props.onAddTodo(this.state.inputValue);
   }
 
+  DragEndHandler(){
+      this.props.onDragEnd();
+  }
+
+  DragStartHandler(){
+      this.props.onDragStart();
+  }
+
   render() {
     return (
       <div>
