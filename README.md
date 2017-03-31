@@ -1,3 +1,8 @@
+
+Ce projet React implémente une todolist. J'ai ajouté a celle-ci la possibilité de déplacer les éléments de la liste avec le sytème de "Drag n Drop".
+Pour ce faire, j'ai simplement utilisé des props ainsi que des states.
+_______________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

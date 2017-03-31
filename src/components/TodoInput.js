@@ -5,6 +5,10 @@ class TodoInput extends Component {
     super(props);
     this.onInputChange = this.onInputChange.bind(this);
     this.onClickButton = this.onClickButton.bind(this);
+    this.onDragStart = this.onDragStart.bind(this);
+    this.onDragEnd = this.onDragEnd.bind(this);
+    this.dragOver = this.dragOver.bind(this);
+    this.onDrop = this.onDrop.bind(this);
     this.state = {
       inputValue: "",
     }
