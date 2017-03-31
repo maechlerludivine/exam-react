@@ -1,0 +1,27 @@
+.complete {
+  text-decoration: line-through;
+}
+
+.filterSelected{
+  background-color: #CCC;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+}
+
+ul {
+  padding:0;
+}
+
+ul li {
+  list-style-type: none;
+  height: 59px;
+  text-align: center;
+  border-bottom:1px solid #ccc;
+  line-height: 4;
+}
+
+h2 {
+  text-align:center;
+  color:#aaa;
+}
